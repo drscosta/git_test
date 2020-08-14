@@ -1,2 +1,1 @@
-# git_test
-Hello wordl!
+I'm learning Git here!
